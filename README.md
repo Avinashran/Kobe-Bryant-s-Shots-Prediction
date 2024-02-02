@@ -1,2 +1,2 @@
 # Kobe-Bryant-s-Shots-Prediction
-The Kobe Bryant's Shots prediction project entailed analyzing and predicting the outcomes of Kobe Bryant's shots using machine learning models. Through an extensive dataset from Kaggle, this project sought to discern the patterns in Bryant's shots and determine the factors affecting their success. 
+The Kobe Bryant Shot Prediction project delved into machine learning to analyze and forecast the results of his basketball shots. Utilizing a comprehensive Kaggle dataset, the aim was to uncover the shooting patterns and influential factors behind his shot success rate.
